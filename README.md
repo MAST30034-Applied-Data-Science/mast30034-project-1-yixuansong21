@@ -9,6 +9,6 @@
 
 **Timeline:** The timeline for the research area is 2018
 
-To run the pipeline, please visit the `notebooks` directory and run the "codef" file
+To run the pipeline, please visit the `notebooks` directory and run the "fcode" file
 
 
